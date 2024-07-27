@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agascmur
 - 👀 I’m interested in web and OS development
-- 🌱 I’m currently learning Django and Fedora
+- 🌱 I’m currently learning Django and Arch
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Turtles don't know how slow they are.
 
